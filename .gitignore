@@ -1,0 +1,27 @@
+_ReSharper*
+*.user
+*.suo
+*.pidb
+*.userprefs
+*.log
+obj
+bin
+Bin
+logs
+*.cache
+
+# configs
+Web.config
+App.config
+*.*.config
+!*.template.config
+configs
+configs/*
+
+# Nuget
+.nuget/*
+!.nuget/NuGet.targets
+packages/*
+*.nupkg.*
+*.nupkg
+
