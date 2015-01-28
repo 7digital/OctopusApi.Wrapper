@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>OctopusApi</id>
-    <version>1.0.3</version>
-    <title>Octopus Api</title>
+    <id>OctopusApi.Wrapper</id>
+    <version>1.0.4</version>
+    <title>Octopus Api Wrapper</title>
     <authors>7digital</authors>
     <owners>7digital</owners>
     <description>
