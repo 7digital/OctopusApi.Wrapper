@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>OctopusApi.Wrapper</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <title>Octopus Api Wrapper</title>
     <authors>7digital</authors>
     <owners>7digital</owners>
@@ -24,8 +24,9 @@
     <copyright>Copyright  2015</copyright>
     <dependencies>
         <group targetFramework="net40">
-          <dependency id="Octopus.Client" version="3.0.3.2084" />
-        </group>
+          <dependency id="Octopus.Client" version="3.0.3" />
+		  <dependency id="Newtonsoft.Json" version="7.0.1" />
+		</group>
     </dependencies>
     <references></references>
     <tags></tags>
