@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>OctopusApi.Wrapper</id>
-    <version>1.0.5</version>
+    <version>1.1.0</version>
     <title>Octopus Api Wrapper</title>
     <authors>7digital</authors>
     <owners>7digital</owners>
@@ -13,7 +13,7 @@
     </releaseNotes>
     <summary>
       Wrapper that allows easy access of the Octopus Api using the Octopus Client. 
-      For example, return a list of Servers Uri that code has been deployed to in environemt 'X'
+      For example, return a list of Servers Uri that code has been deployed to in enviroment 'X'
       for role 'Y'. 
     </summary>
     <language>en-US</language>
@@ -24,7 +24,7 @@
     <copyright>Copyright  2015</copyright>
     <dependencies>
         <group targetFramework="net40">
-          <dependency id="Octopus.Client" version="2.6.0.778" />
+          <dependency id="Octopus.Client" version="3.0.3.2084" />
         </group>
     </dependencies>
     <references></references>
